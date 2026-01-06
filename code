@@ -1,1 +1,37 @@
+This project focuses on predicting the likelihood of heart disease by analyzing patient health data using data analytics techniques.
+The goal is to identify key risk factors and assist in early detection through data-driven insights.
 
+📊Dataset
+The dataset includes medical attributes such as:
+
+Age
+Gender
+Chest pain type
+Blood pressure
+Cholesterol level
+Fasting blood sugar
+Resting ECG results
+Maximum heart rate
+Exercise-induced angina
+
+⚙️Technologies Used
+
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Scikit-learn
+Jupyter Notebook
+
+🔍 Methodology
+
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+Feature selection and transformation
+Model building and evaluation
+Performance analysis using accuracy and confusion matrix
+
+📈 Results
+The model successfully identifies patterns and risk factors associated with heart disease and provides reliable predictions that can support healthcare decision-making.
+
+🎯 Conclusion
+This project demonstrates how data analytics and predictive modeling can be applied to healthcare data to improve early diagnosis and understand critical health indicators.
